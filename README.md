@@ -1,4 +1,5 @@
   👋 Hi, I’m Azra
+  
 - 🌱 I’m currently learning Python
 - 📫 How to reach me nurazraevin@gmail.com
 
